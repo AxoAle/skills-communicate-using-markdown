@@ -7,3 +7,7 @@
 ```python
 print("hello")
 ```
+
+- [x] Finish the day
+- [x] Drink water
+- [ ] Live
